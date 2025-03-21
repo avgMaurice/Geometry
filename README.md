@@ -1,8 +1,5 @@
 
 ## API Reference
-
-#### Get all items
-
 ```python
 # example
 from geometry import pyramid,square,circle
